@@ -41,7 +41,7 @@ if __name__ == "__main__":
     print("I felt bored so I made this game")
     print("Try figuring out how levels work")
     print("Enjoy!")
-    sleep(5)
+    input("Press space to continue: ")
     os.system("cls")
 
     # Start the game
